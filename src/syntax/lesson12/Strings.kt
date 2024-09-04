@@ -1,7 +1,6 @@
 package syntax.lesson12
 
 fun main() {
-
     val testStr = "Diana Bibizyana";
 
     println("some text " + testStr);
@@ -10,6 +9,4 @@ fun main() {
     var a = 4;
     var b = 2;
     println("sum is ${a + b}")
-
-
 }

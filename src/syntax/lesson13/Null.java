@@ -17,7 +17,5 @@ public class Null {
 
         // it cause error, null not have any methods
         //System.out.println("value " + nullableStr.length());
-
-
     }
 }

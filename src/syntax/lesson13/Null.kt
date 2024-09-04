@@ -6,8 +6,6 @@ fun main() {
     println("value " + nullableString.length);
     println("value - ${nullableString2?.length ?: "no value here"}"); // it will be invoke only if not null
 
-
-
     var nullableString3: String? = "Oleg";
     println(nullableString3?.uppercase() ?: "no value here");
 
