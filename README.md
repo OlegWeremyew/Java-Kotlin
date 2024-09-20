@@ -1,3 +1,1 @@
 # Java / Kotlin
-
-### basic courses
